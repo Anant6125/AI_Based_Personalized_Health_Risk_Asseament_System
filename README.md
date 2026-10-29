@@ -23,3 +23,5 @@ Stroke: Acc 86.86 %, ROC-AUC 0.787
 ## To do SHAP explainability, model comparison (LogReg/XGBoost), imbalance handling, deployment.
 
 Disclaimer: risk estimate only, not a medical diagnosis.
+Note: in the heart dataset, label 0 = heart disease and 1 = no disease.
+For the disease class: precision 0.95, recall 0.64, F1 0.77 (accuracy 81.97%, ROC-AUC 0.906).
