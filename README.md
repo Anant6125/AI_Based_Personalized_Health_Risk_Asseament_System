@@ -1,3 +1,9 @@
+## Live demo
+https://health-risk-assessment.streamlit.app
+
+Website pages: Home, Risk Assessment (with per-prediction SHAP explanation), Model Performance, Explainability, About.
+
+
 AI-Driven Personalized Health Risk Assessment
 
 One Streamlit form that predicts risk of Diabetes, Heart Disease, Hypertension and Stroke using 4 Random Forest models (scikit-learn).
